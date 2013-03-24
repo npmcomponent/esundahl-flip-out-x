@@ -42,7 +42,7 @@
     }
 }
 
-.flipOutX {
+.flip-out-x {
 	-webkit-animation-name: flip-out-x;
 	-webkit-backface-visibility: visible !important;
 	-moz-animation-name: flip-out-x;
